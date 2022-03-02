@@ -187,7 +187,7 @@
 <br/>
 
 ## 📊 Pinned Projects
-<p>
+<p align="center">
 <a href="https://github.com/asimkymk/Agalar---JSF-Social-Media-WebSite-Projec">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=Agalar---JSF-Social-Media-WebSite-Project&theme=algolia" />
 </a>
@@ -195,7 +195,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=wordle_game&theme=algolia" />
 </a>
 </p>
-<p>
+<p align="center">
 <a href="https://github.com/asimkymk/shpibasket">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=shpibasket&theme=algolia" />
 </a>
@@ -203,7 +203,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=kahvesecim_marsflutter&theme=algolia" />
 </a>
 </p>
-<p>
+<p align="center">
 <a href="https://github.com/asimkymk/Bank-Automation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=Bank-Automation&theme=algolia" />
 </a>
@@ -212,7 +212,7 @@
 </a>
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/asimkymk/Spreading-V-Virus-Term-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=Spreading-V-Virus-Term-Project&theme=algolia" />
 </a>
