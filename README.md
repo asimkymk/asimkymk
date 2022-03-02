@@ -182,3 +182,43 @@
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asimkymk&layout=compact&theme=algolia" alt="asimkymk" /></a> </p>
+
+
+<br/>
+
+## 📊 Pinned Projects
+<p>
+<a href="https://github.com/asimkymk/Agalar---JSF-Social-Media-WebSite-Projec">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=Agalar---JSF-Social-Media-WebSite-Project&theme=algolia" />
+</a>
+<a href="https://github.com/asimkymk/wordle_game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=wordle_game&theme=algolia" />
+</a>
+</p>
+<p>
+<a href="https://github.com/asimkymk/shpibasket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=shpibasket&theme=algolia" />
+</a>
+<a href="https://github.com/asimkymk/kahvesecim_marsflutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=kahvesecim_marsflutter&theme=algolia" />
+</a>
+</p>
+<p>
+<a href="https://github.com/asimkymk/Bank-Automation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=Bank-Automation&theme=algolia" />
+</a>
+<a href="https://github.com/asimkymk/Python-Backgammon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=Python-Backgammon&theme=algolia" />
+</a>
+</p>
+
+<p>
+<a href="https://github.com/asimkymk/Spreading-V-Virus-Term-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=Spreading-V-Virus-Term-Project&theme=algolia" />
+</a>
+<a href="https://github.com/asimkymk/web-workshops">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asimkymk&repo=web-workshops&theme=algolia" />
+</a>
+</p>
+
+
